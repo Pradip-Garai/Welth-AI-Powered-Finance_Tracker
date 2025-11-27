@@ -128,7 +128,7 @@
 }
 
 .hero-image-wrapper{
-  perspective: 400px;
+  perspective: 800px;
 }
 .hero-image{
   transform: rotateX(15deg) scale(1);
